@@ -1,1 +1,0 @@
-But only if f_av(x) > f(x)
