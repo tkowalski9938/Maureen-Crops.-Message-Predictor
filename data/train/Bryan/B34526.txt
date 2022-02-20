@@ -1,1 +1,0 @@
-is it when int_a^b f(x) dx = infinity

@@ -1,1 +1,0 @@
-chain rule is what allows us to put x in terms of theta and dx in terms of d(theta)

@@ -1,1 +1,0 @@
-Wood generally has very anisotropic material properties which means it has the lowest strength when the load is applied perpendicular to it. Hence if a piece of wood cut with grains perpendicular to it, the wood beam would holds a much smaller load and its E value and strength will be smaller values, too.

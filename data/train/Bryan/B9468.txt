@@ -1,4 +1,0 @@
-,tex
-\begin{proof}
-hi
-\end{proof}

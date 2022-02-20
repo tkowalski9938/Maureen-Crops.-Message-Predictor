@@ -1,1 +1,0 @@
-$A\lor B \implies \lnot A \implies B$

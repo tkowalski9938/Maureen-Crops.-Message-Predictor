@@ -1,1 +1,0 @@
-like you can do most math wolfram alpha stuff in sympy

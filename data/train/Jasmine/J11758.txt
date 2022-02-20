@@ -1,1 +1,0 @@
-i need to find where the name path is because i need to seperate it into a first and last name

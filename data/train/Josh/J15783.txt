@@ -1,1 +1,0 @@
-it's the reverse of chain rule that allows us to work with certain compositions of functions

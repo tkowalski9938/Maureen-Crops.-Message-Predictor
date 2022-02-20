@@ -1,1 +1,0 @@
-apache is just a web server

@@ -1,1 +1,0 @@
-i should probably modify the bot so that numbers and symbols work

@@ -1,1 +1,0 @@
-you're starting a proof in math mode

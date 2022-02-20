@@ -1,1 +1,0 @@
-a, b, c, d have to have a pair that shares an r value since there are only three distinct r values, so the difference between those will be divisible by 3

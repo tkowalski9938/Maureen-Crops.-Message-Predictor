@@ -1,1 +1,0 @@
-for an interval [a, b], by definition a <= b

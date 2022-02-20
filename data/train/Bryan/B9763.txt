@@ -1,1 +1,0 @@
-$(a \lor b \implies c) \implies a \implies \lnot c$

@@ -1,1 +1,0 @@
-send screenshot ! (if you're allowed)

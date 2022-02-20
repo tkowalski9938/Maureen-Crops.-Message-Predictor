@@ -1,1 +1,0 @@
-say “i don’t know” without shame
