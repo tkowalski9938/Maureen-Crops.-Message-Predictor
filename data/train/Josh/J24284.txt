@@ -1,0 +1,1 @@
+for a there’s no positive component of left side of A(x) if x is less than 0

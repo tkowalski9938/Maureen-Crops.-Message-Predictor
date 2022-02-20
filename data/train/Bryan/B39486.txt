@@ -1,0 +1,1 @@
+YYYY-MM-DD is the only good date format

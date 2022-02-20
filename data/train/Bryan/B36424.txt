@@ -1,0 +1,1 @@
+$$\lnot (\lnot A \lor B) \lor \lnot(\lnot B \lor A)$$

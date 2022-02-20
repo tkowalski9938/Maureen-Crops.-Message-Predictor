@@ -1,0 +1,1 @@
+Why do you need the name of the project visible in the URL anyways

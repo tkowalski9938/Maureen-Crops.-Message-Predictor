@@ -1,0 +1,1 @@
+just define dx and dy as mathematical objects with scalar multiplication as an operation or smth

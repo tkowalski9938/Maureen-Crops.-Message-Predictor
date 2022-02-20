@@ -1,0 +1,1 @@
+it only counts duplicate words within the same message

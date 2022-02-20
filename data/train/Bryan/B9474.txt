@@ -1,0 +1,4 @@
+,tex
+\begin{proof}
+Proof is trivial and is left as an exercise to the reader.
+\end{proof}

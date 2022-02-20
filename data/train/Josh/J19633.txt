@@ -1,0 +1,1 @@
+as in, it applies for an arbitrary x that meets a condition, not for any particular x we can find

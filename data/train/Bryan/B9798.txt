@@ -1,0 +1,1 @@
+$(A\lor B) \land (\lnot A) \implies B$

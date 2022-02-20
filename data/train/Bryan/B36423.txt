@@ -1,0 +1,1 @@
+$$\lnot ((\lnot A \lor B) \land (\lnot B \lor A))$$

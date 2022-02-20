@@ -1,0 +1,1 @@
+my idea was take two vectors on the xy plane and show that the projection of the force on these vectors is 0

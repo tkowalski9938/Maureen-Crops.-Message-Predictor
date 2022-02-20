@@ -1,0 +1,1 @@
+Hashmap is O(1)

@@ -1,0 +1,1 @@
+i gotta do some backend stuff to get the viewmodels to communicate apparently. so i gotta make some new stuff that's really abstract to me still

@@ -1,0 +1,1 @@
+does fav(x) > f(x) mean for all x?

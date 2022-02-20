@@ -1,0 +1,1 @@
+$$\lnot (A \implies B) \equiv (A \land \lnot B)$$

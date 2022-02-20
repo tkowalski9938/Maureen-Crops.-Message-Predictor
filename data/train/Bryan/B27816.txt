@@ -1,0 +1,1 @@
+apparently 1password has like almost 100% Rust backend

@@ -1,0 +1,1 @@
+$\text{import numpy}\\\text{numpy.multiply}\left(\begin{bmatrix}1\\2\\1\end{bmatrix}, \begin{bmatrix}a\\b\\c\end{bmatrix}\right) = \begin{bmatrix}a \\ 2b \\ c \end{bmatrix}$

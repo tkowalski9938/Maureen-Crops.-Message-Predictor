@@ -1,0 +1,1 @@
+$$\lnot\text{beta} \implies \lnot\text{tyler}$$

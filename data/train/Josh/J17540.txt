@@ -1,0 +1,1 @@
+u put u=a and u=b as the bounds in an integral
