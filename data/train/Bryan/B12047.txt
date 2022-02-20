@@ -1,1 +1,0 @@
-there's a lot of whitespace around these headers that you could probably shrink

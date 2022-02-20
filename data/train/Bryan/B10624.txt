@@ -1,1 +1,0 @@
-np.array([[1,2,1]]) i'm p sure

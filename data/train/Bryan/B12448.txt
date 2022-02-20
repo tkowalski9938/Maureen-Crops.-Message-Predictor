@@ -1,1 +1,0 @@
-he probably doesn't know asynchronous programming using javascript promises

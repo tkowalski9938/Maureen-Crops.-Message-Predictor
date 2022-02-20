@@ -1,1 +1,0 @@
-first one should be simple since v*w = |v||w|cosθ
